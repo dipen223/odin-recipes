@@ -1,0 +1,17 @@
+h1,h2{
+    color:rgb(234, 42, 42);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+img{
+    border-radius:5px;
+}
+img:hover{
+    padding: 10px;
+    cursor: pointer;
+}
+
+p{
+    font-size: 1.3rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
